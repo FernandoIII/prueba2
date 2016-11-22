@@ -19,7 +19,9 @@ public class HolaGit {
     public static void main(String[] args) {
         String nombre;
         nombre=JOptionPane.showInputDialog("Hola, por favor ingresa tu nombre");
-        JOptionPane.showMessageDialog(null,"hola "+nombre+" te damos la mas cordial bienvenida/o a git");
+        JOptionPane.showMessageDialog(null,"hola "+nombre+" te damos la mas cordial bienvenida/o a git");}
+        JOptionPane.showMessageDialog(null,"hola "+nombre+" ya hice un cambio desde git hut a git");
+    
     }
     
 }
